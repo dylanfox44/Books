@@ -1,8 +1,8 @@
 import { createClient } from "https://cdn.skypack.dev/@supabase/supabase-js"
 
-const supabaseUrl = 'https://eunwothedikttpuoslnr.supabase.co'
+const supabaseUrl = 'https://puckhulgftuosunkeunu.supabase.co'
 
-const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImV1bndvdGhlZGlrdHRwdW9zbG5yIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDE1NzQyOTQsImV4cCI6MjA1NzE1MDI5NH0.-J9GgbAFhSlN2be-lakGlRM9w3P9j2q9g1aYBZJ61X8'
+const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InB1Y2todWxnZnR1b3N1bmtldW51Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDE2NTYxMTQsImV4cCI6MjA1NzIzMjExNH0.ekV65ofIzo7syfxqYCrHv-QgA3nhzFUBoI3AEYV_xzI'
 
 const supabase = createClient(supabaseUrl, supabaseKey)
 
